@@ -4,7 +4,7 @@ Business card 🎴 for the web 1 course of the IFPE's ADS program.
 
 ## Initial Requirements:
 
-All the requirements are found on the Requirements.pdf file.
+All the requirements are found on the [Requirements.pdf](https://github.com/viniciussoaresti/web1_card/blob/master/Requirements.pdf) file.
 
 ## Additions:
 
